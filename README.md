@@ -145,8 +145,8 @@ http://127.0.0.1:5000
 
 **Sourabh Patil**
 
-* 🔗 GitHub: [https://github.com/spsourabh17](https://github.com/spsourabh17)
-* 💼 LinkedIn: [https://www.linkedin.com/in/sourabh-patil-5242402b7](https://www.linkedin.com/in/sourabh-patil-5242402b7)
+* 🔗 GitHub: [https://github.com/spsourabh17](https://github.com/ninad-bhogan)
+
 
 ---
 
