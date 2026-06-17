@@ -143,9 +143,9 @@ http://127.0.0.1:5000
 
 ## 👨‍💻 Author
 
-**Sourabh Patil**
+**Ninad Bhogan**
 
-* 🔗 GitHub: [https://github.com/spsourabh17](https://github.com/ninad-bhogan)
+* 🔗 GitHub: (https://github.com/ninad-bhogan)
 
 
 ---
